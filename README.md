@@ -99,7 +99,7 @@ Agentic Browser uses `uv` to manage the Python virtual environment and package d
 
 #### 2. Clone the repository:
 
-    git clone https://github.com/TheAgenticAI/TheAgenticBrowser
+    git clone https://github.com/daniellopez882/agentic-browser/
     
 #### 3. Set up the virtual environment
 
