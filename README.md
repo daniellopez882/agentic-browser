@@ -103,7 +103,7 @@ Agentic Browser uses `uv` to manage the Python virtual environment and package d
     git clone https://github.com/TheAgenticAI/TheAgenticBrowser
 =======
     git clone https://github.com/daniellopez882/agentic-browser/
->>>>>>> a9da7a568aa3a30a24cd06d0e6fdd589899940ae
+
     
 #### 3. Set up the virtual environment
 
@@ -173,7 +173,7 @@ You can directly run the project from the main.py file or even spin up a server 
   POST http://127.0.0.1:8000/execute_task
 
   {
-      "command": "Give me the price of RTX 3060ti on amazon.in and give me the latest delivery date."
+      "command": "Give me the price of RTX 3060ti on amazon.com and give me the latest delivery date."
   }
   ```
 
